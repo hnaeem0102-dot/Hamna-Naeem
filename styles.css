@@ -16,3 +16,14 @@
 .square:hover {
   transform: translateX(60px);
 }
+
+header, footer {
+  background: #1a2744;
+  color: #fff;
+  padding: 1rem;
+}
+
+nav {
+  background: #eee;
+  padding: 1rem;
+}
