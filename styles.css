@@ -29,3 +29,19 @@ nav {
   display: flex;
 gap: 1rem;
 }
+
+nav a {
+  color: #1a2744;
+}
+
+nav a:hover {
+  color: #c45c26;
+}
+
+#three {
+  background: #fff8e7;
+}
+
+input[type="email"] {
+  border: 1px solid #1a2744;
+}
